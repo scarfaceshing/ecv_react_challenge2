@@ -1,7 +1,7 @@
 # React Challenge #1 - UI Development with TailwindCSS & MUIv5
 
 ## Learning Objectives
-- Experience responsive UI development with TailwindCSS & MaterialUI.
+- Experience responsive UI development with [TailwindCSS](https://tailwindcss.com/) & [MaterialUI](https://mui.com/).
 - UI Development with **Figma** utilization.
 - Usage of TailwindCSS responsive utility variants.
 - Usage of MaterialUIv5 components.
