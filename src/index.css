@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.gradient-effect {
+    content: "";
+    border-radius: 0 0 20px 20px;
+    background: linear-gradient(to bottom, transparent 0%, rgb(0, 0, 0) 200%);
+}
+
+@media screen and (max-width: 640px) {
+    .gradient-effect {
+        content: "";
+        border-radius: 0 0 20px 20px;
+        background: linear-gradient(to bottom, transparent 0%, rgb(0, 0, 0) 200%);
+    }
+}

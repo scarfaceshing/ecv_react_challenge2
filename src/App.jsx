@@ -1,10 +1,15 @@
-
+import HeroSection from './section/HeroSection'
+import FeaturesSection from './section/FeatureSection'
+import ContactUsSection from './section/ContactUsSection'
+import FooterSection from './section/FooterSection'
 
 function App() {
-
   return (
     <>
-      React App
+      <HeroSection />
+      <FeaturesSection />
+      <ContactUsSection />
+      <FooterSection />
     </>
   )
 }
